@@ -5,13 +5,15 @@ Welcome to the `PHYS323` course information `README` file!  Refer to this inform
 ## Getting Started
 
  - [Getting Started Guide : Click here first.](GettingStarted.md)
- - [Textbook : Effective Computation in Physics](http://physics.codes) <br/>
+ - [Optional Textbook : Effective Computation in Physics](http://physics.codes) <br/>
  Reference course textbook, to be supplemented with free online resources below. In particular, Chapters 1, 15, and 16 cover the basic usage of bash, git, and GitHub, so may be helpful as a resource.
 
 ## Primary Course Links (Try here first)
 
  - [Anaconda Python](https://www.anaconda.com/download) <br/>
- Official python distribution suitable for scientfic computing and data science. Get this to complete both classwork and homework on your own laptop.
+ Common but bloated python distribution suitable for scientfic computing and data science.
+ - [uv](https://github.com/astral-sh/uv) <br/>
+ Fast and modern package manager for python. Compatible with [Marimo](https://marimo.io/) notebooks.
  - [Git for Windows](https://git-scm.com/download/win)<br/>
  If you use Windows, you also need this to do course work on your own laptop. If you use Linux or Mac, you should be able to install everything natively and use Terminal.
  - [Overleaf.com](https://www.overleaf.com) <br/>
@@ -40,8 +42,6 @@ Check back throughout the semester for updates to these slides, as they are live
  - [Python Matplotlib](Cheatsheets/Python_Matplotlib_Cheat_Sheet.pdf)
 
 ### Coding Standards
- - [Chapman Coding Standards](Chapman%20Coding%20Standards.pdf) <br/>
- Chapman University CPSC Coding Standards (*use for your code*).
  - [Python Style Guide (Official Google)](https://google.github.io/styleguide/pyguide.html) <br/>
  Official Google style guide for Python (*use for your code*).
  
