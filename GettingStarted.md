@@ -23,11 +23,10 @@ Our class will be centered around a cloud-based piece of technology:
  - **Task 1:** Use your Chapman email to create a GitHub account, if you don't already have one linked to your Chapman email. Use your full, real name when making the accounts so that you can be easily found. The instructor should have invited you to the course GitHub Organization using your student email, so look for the invite emails to accelerate account creation.
  
 Our class will also teach you how to use your own personal computer as a scientific workstation. To do this, you will need to set up two more pieces of software on your personal computer:
- 1. [Anaconda Python](https://www.anaconda.com/distribution/), a distribution of python together with a useful collection of scientific and data-processing packages.
+ 1. Python: you will eventually need a distribution of python together with a useful collection of scientific and data-processing packages. We will discuss installing those items later, so delay thinking about python for now.
  1. [Git](https://git-scm.com/download), a distributed change control for managing code and sharing it with other programmers.
 
- - **Task 2:** Go to the Anaconda site linked above and download the Anaconda distribution for Python 3 (i.e., **not** Python 2). Make sure you choose the correct operating system (Windows, Mac, or Linux). Launch the installation and follow the instructions. (When it asks questions, pick the recommended options.)
- - **Task 3:** Go to the Git site linked above and download the Git installer (for Windows or Mac - it's likely already installed if you are using Linux). Run the installation and follow the instructions. If it asks, be sure to enable git integration with your file browser.
+ - **Task 2:** Go to the Git site linked above and download the Git installer (for Windows or Mac - it's likely already installed if you are using Linux). Run the installation and follow the instructions. If it asks, be sure to enable git integration with your file browser.
  
 ## Setting up the Terminal (a.k.a. Bash Shell) and SSH
 
